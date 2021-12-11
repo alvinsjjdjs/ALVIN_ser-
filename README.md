@@ -1,6 +1,6 @@
 <div align="center">
 
-## Its_me_ALVIN_ser
+## Its_me_ALVIN_😉
 
 <div align="center">
   <img src=IMG_20211210_201128.jpg>
@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ALVIN_ser](<img src=IMG-20211210-WA0427.jpg>
+  [![ALVIN_ser](<img src= Screenshot_2021-11-19-15-51-02-783_com.dts.freefireth.jpg>
  https://github.com/ALVIN_ser |  
 ----|
 [Its_me_ALVIN](https://github.com/ALVIN_ser)  |
