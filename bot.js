@@ -8,9 +8,9 @@ Explore
 @richusir 
 richusir
 /
-RICHUSER_B1
+ALVIN_sir
 Public
-forked from richusir/ALVIN_ser-
+forked from alvinsjjdjs/ALVIN_sir
 0
 1121
 Code
@@ -23,7 +23,7 @@ Insights
 Settings
 RICHUSER_B1/bot.js /
 @richusir
-richusir Create bot.js
+ Alvin sir Create bot.js
 Latest commit 21d64e4 on 9 Aug
  History
  11 contributors
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('ALVIN_ser working perfectly 💘')
+            chalk.green.bold('ALVIN sir working perfectly 💘')
         );
     });
     
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'ALVIN_ser_bot_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'Alvin sir bot_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
