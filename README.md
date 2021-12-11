@@ -46,7 +46,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   <div align="center">
     
   [![ALVIN_ser](<img src=IMG-20211210-WA0427.jpg>
- https://github.com/Richuser_b1 |  
+ https://github.com/ALVIN_ser |  
 ----|
 [Its_me_ALVIN](https://github.com/ALVIN_ser)  |
 Base, Bug Fixes, Modules | 
