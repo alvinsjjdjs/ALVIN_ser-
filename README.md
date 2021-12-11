@@ -45,10 +45,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ALVIN_ser](<img src= Screenshot_2021-11-19-15-51-02-783_com.dts.freefireth.jpg>
- https://github.com/ALVIN_ser |  
+  [![ALVIN_sir](<img src= Screenshot_2021-11-19-15-51-02-783_com.dts.freefireth.jpg>
+ https://github.com/ALVIN_sir |  
 ----|
-[Its_me_ALVIN](https://github.com/ALVIN_ser)  |
+[Its_me_ALVIN](https://github.com/ALVIN_sir)  |
 Base, Bug Fixes, Modules | 
   
     
